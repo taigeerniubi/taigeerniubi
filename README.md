@@ -91,9 +91,17 @@ I build LLM-powered agents, MCP servers and data pipelines — mostly in Python.
 
 ## 📊 GitHub stats
 
+<!-- 下面的卡片由 .github/workflows/profile-cards.yml 每天生成并提交到仓库，不要手改 -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taigeerniubi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taigeerniubi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" width="100%" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" width="49%" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" width="49%" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" width="49%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=taigeerniubi&theme=tokyonight&hide_border=true" alt="streak" />

@@ -1,0 +1,28 @@
+# 每天北京时间 09:00 用自己账号的数据画统计卡片（SVG），直接提交进仓库的 profile-summary-card-output/ 目录。
+# README 引用的是仓库里的文件，不依赖任何第三方图片服务器，不会再出现加载失败。
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # UTC 01:00 = 北京 09:00
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-cards.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 8
+          AUTO_PUSH: true
