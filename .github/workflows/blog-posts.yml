@@ -24,6 +24,5 @@ jobs:
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
           date_format: "yyyy-mm-dd"
-          description_max_length: 100
-          template: "- 🔥 **[$title]($url)** <sub>$date</sub>$newline  <sub>$description</sub>$newline"
+          template: "- 🔥 **[$title]($url)** <sub>$date</sub>$newline"
           commit_message: "docs: update latest blog posts"
