@@ -84,7 +84,9 @@ I build LLM-powered agents, MCP servers and data pipelines — mostly in Python.
 
 ## 📝 My latest posts
 
-<!-- BLOG-POST-LIST:START -->- 🔥 **[博客开张：为什么把博客放在 GitHub 上](https://taigeerniubi.github.io/2026/09/09/hello-world/)** <sub>2026-09-09</sub>
+<!-- BLOG-POST-LIST:START -->
+- 🔥 **[博客开张：为什么把博客放在 GitHub 上](https://taigeerniubi.github.io/2026/09/09/hello-world/)** <sub>2026-09-09</sub>
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More posts on my blog...](https://taigeerniubi.github.io)
