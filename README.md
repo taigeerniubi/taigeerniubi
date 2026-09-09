@@ -1,7 +1,7 @@
 <!--
   GitHub 个人主页 README —— 仓库名必须是 taigeerniubi/taigeerniubi 才会显示在主页。
   搜索 TODO_ 可以找到所有需要你填的占位符（邮箱 / LinkedIn / 微信 等）。
-  「My latest posts」区块由 .github/workflows/blog-posts.yml 每天自动填充，不要手改那两行注释之间的内容。
+  「My latest posts」区块由 .github/workflows/blog-posts.yml 自动填充（每天 08:00，以及每次 push 改动 README 时），不要手改那两行注释之间的内容。
 -->
 
 <p align="center">
