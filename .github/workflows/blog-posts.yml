@@ -23,6 +23,7 @@ jobs:
           feed_list: "https://taigeerniubi.github.io/feed.xml"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
+          tag_post_pre_newline: true   # 列表和前后的注释标记分行，否则 Markdown 不渲染
           date_format: "yyyy-mm-dd"
           template: "- 🔥 **[$title]($url)** <sub>$date</sub>$newline"
           commit_message: "docs: update latest blog posts"
