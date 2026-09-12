@@ -85,6 +85,7 @@ I build LLM-powered agents, MCP servers and data pipelines — mostly in Python.
 ## 📝 My latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- 🔥 **[Agent Memory 的结构：短期、任务与长期记忆怎么配合](https://taigeerniubi.github.io/2026/09/11/Agent-memory/)** <sub>2026-09-10</sub>
 - 🔥 **[Agent 评测怎么做？从“看起来能用”到可重复的工程验证](https://taigeerniubi.github.io/2026/09/10/Agent-evaluation/)** <sub>2026-09-10</sub>
 - 🔥 **[Agent Harness 是什么？从一次工具调用看懂执行循环、上下文与 MCP](https://taigeerniubi.github.io/2026/09/10/Agent-harness/)** <sub>2026-09-09</sub>
 - 🔥 **[博客开张：为什么把博客放在 GitHub 上](https://taigeerniubi.github.io/2026/09/09/hello-world/)** <sub>2026-09-09</sub>
