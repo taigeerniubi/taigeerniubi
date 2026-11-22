@@ -50,7 +50,7 @@ I build LLM-powered agents, MCP servers and data pipelines — mostly in Python.
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
 </p>
 
-## 🚀 Open source projects
+## 🚀 Selected projects
 
 <table>
   <thead>
@@ -64,21 +64,54 @@ I build LLM-powered agents, MCP servers and data pipelines — mostly in Python.
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/taigeerniubi/auto_vedio"><b>Shiguang (拾光)</b></a><br /><sub>AI-assisted vlog editor with a timeline and MP4 export</sub></td>
+      <td><img src="https://img.shields.io/github/stars/taigeerniubi/auto_vedio?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/forks/taigeerniubi/auto_vedio?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues/taigeerniubi/auto_vedio?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/taigeerniubi/auto_vedio?style=flat&label=" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taigeerniubi/bridge-meeting-assistant"><b>Bridge Meeting Assistant (译桥)</b></a><br /><sub>Windows meeting assistant with live bilingual captions and English speech output</sub></td>
+      <td><img src="https://img.shields.io/github/stars/taigeerniubi/bridge-meeting-assistant?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/forks/taigeerniubi/bridge-meeting-assistant?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues/taigeerniubi/bridge-meeting-assistant?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/taigeerniubi/bridge-meeting-assistant?style=flat&label=" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taigeerniubi/AI-audio-service"><b>AI Audio Service</b></a><br /><sub>Real-time voice sales assistant that answers questions from product documents</sub></td>
+      <td><img src="https://img.shields.io/github/stars/taigeerniubi/AI-audio-service?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/forks/taigeerniubi/AI-audio-service?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues/taigeerniubi/AI-audio-service?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/taigeerniubi/AI-audio-service?style=flat&label=" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taigeerniubi/QQ-Companion"><b>QQ-Companion</b></a><br /><sub>Self-hosted QQ chat companion with local memory and voice replies</sub></td>
+      <td><img src="https://img.shields.io/github/stars/taigeerniubi/QQ-Companion?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/forks/taigeerniubi/QQ-Companion?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues/taigeerniubi/QQ-Companion?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/taigeerniubi/QQ-Companion?style=flat&label=" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taigeerniubi/ui-design-composer"><b>ui-design-composer</b></a><br /><sub>Codex skill for UI layout, color, typography, and interaction states</sub></td>
+      <td><img src="https://img.shields.io/github/stars/taigeerniubi/ui-design-composer?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/forks/taigeerniubi/ui-design-composer?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues/taigeerniubi/ui-design-composer?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/taigeerniubi/ui-design-composer?style=flat&label=" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/taigeerniubi/boss-workbench"><b>boss-workbench</b></a><br /><sub>BOSS Zhipin workbench for job search, résumé tailoring, and reply drafts</sub></td>
+      <td><img src="https://img.shields.io/github/stars/taigeerniubi/boss-workbench?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/forks/taigeerniubi/boss-workbench?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues/taigeerniubi/boss-workbench?style=flat&label=" /></td>
+      <td><img src="https://img.shields.io/github/issues-pr/taigeerniubi/boss-workbench?style=flat&label=" /></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/taigeerniubi/KO_12306"><b>KO_12306</b></a><br /><sub>12306 train-ticket query &amp; booking scripts</sub></td>
       <td><img src="https://img.shields.io/github/stars/taigeerniubi/KO_12306?style=flat&label=" /></td>
       <td><img src="https://img.shields.io/github/forks/taigeerniubi/KO_12306?style=flat&label=" /></td>
       <td><img src="https://img.shields.io/github/issues/taigeerniubi/KO_12306?style=flat&label=" /></td>
       <td><img src="https://img.shields.io/github/issues-pr/taigeerniubi/KO_12306?style=flat&label=" /></td>
     </tr>
-    <!-- 再加一行：把下面的 TODO_REPO 换成公开仓库名后，删掉这行注释标记即可
-    <tr>
-      <td><a href="https://github.com/taigeerniubi/TODO_REPO"><b>TODO_REPO</b></a><br /><sub>TODO_一句话描述</sub></td>
-      <td><img src="https://img.shields.io/github/stars/taigeerniubi/TODO_REPO?style=flat&label=" /></td>
-      <td><img src="https://img.shields.io/github/forks/taigeerniubi/TODO_REPO?style=flat&label=" /></td>
-      <td><img src="https://img.shields.io/github/issues/taigeerniubi/TODO_REPO?style=flat&label=" /></td>
-      <td><img src="https://img.shields.io/github/issues-pr/taigeerniubi/TODO_REPO?style=flat&label=" /></td>
-    </tr>
-    -->
   </tbody>
 </table>
 
@@ -88,7 +121,6 @@ I build LLM-powered agents, MCP servers and data pipelines — mostly in Python.
 - 🔥 **[Agent Memory 的结构：短期、任务与长期记忆怎么配合](https://taigeerniubi.github.io/2026/09/11/Agent-memory/)** <sub>2026-09-10</sub>
 - 🔥 **[Agent 评测怎么做？从“看起来能用”到可重复的工程验证](https://taigeerniubi.github.io/2026/09/10/Agent-evaluation/)** <sub>2026-09-10</sub>
 - 🔥 **[Agent Harness 是什么？从一次工具调用看懂执行循环、上下文与 MCP](https://taigeerniubi.github.io/2026/09/10/Agent-harness/)** <sub>2026-09-09</sub>
-- 🔥 **[博客开张：为什么把博客放在 GitHub 上](https://taigeerniubi.github.io/2026/09/09/hello-world/)** <sub>2026-09-09</sub>
 
 <!-- BLOG-POST-LIST:END -->
 

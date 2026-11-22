@@ -26,4 +26,6 @@ jobs:
           tag_post_pre_newline: true   # 列表和前后的注释标记分行，否则 Markdown 不渲染
           date_format: "yyyy-mm-dd"
           template: "- 🔥 **[$title]($url)** <sub>$date</sub>$newline"
+          item_exec: |
+            if (post.url.replace(/\/$/, '') === 'https://taigeerniubi.github.io/2026/09/09/hello-world') return null;
           commit_message: "docs: update latest blog posts"
